@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Москва",
+    "populationCount": 12615279,
+    "area": 2561,
+    "percentOfSummaryCountryPopulation": 8.59
+  },
+  {
+    "name": "Московская область",
+    "populationCount": 7599647,
+    "area": 44329,
+    "percentOfSummaryCountryPopulation": 5.18
+  },
+  {
+    "name": "Краснодарский край",
+    "populationCount": 5648235,
+    "area": 75485,
+    "percentOfSummaryCountryPopulation": 3.85
+  },
+  {
+    "name": "Санкт-Петербург",
+    "populationCount": 5383890,
+    "area": 1403,
+    "percentOfSummaryCountryPopulation": 3.67
+  },
+  {
+    "name": "Свердловская область",
+    "populationCount": 4315699,
+    "area": 194307,
+    "percentOfSummaryCountryPopulation": 2.94
+  },
+  {
+    "name": "Ростовская область",
+    "populationCount": 4202320,
+    "area": 100967,
+    "percentOfSummaryCountryPopulation": 2.86
+  },
+  {
+    "name": "Республика Башкортостан",
+    "populationCount": 4051005,
+    "area": 142947,
+    "percentOfSummaryCountryPopulation": 2.76
+  },
+  {
+    "name": "Республика Татарстан",
+    "populationCount": 3898628,
+    "area": 67847,
+    "percentOfSummaryCountryPopulation": 2.66
+  },
+  {
+    "name": "Тюменская область",
+    "populationCount": 3723969,
+    "area": 1464173,
+    "percentOfSummaryCountryPopulation": 2.54
+  },
+  {
+    "name": "Челябинская область",
+    "populationCount": 3475753,
+    "area": 88529,
+    "percentOfSummaryCountryPopulation": 2.37
+  },
+  {
+    "name": "Нижегородская область",
+    "populationCount": 3214623,
+    "area": 76624,
+    "percentOfSummaryCountryPopulation": 2.19
+  },
+  {
+    "name": "Самарская область",
+    "populationCount": 3183038,
+    "area": 53565,
+    "percentOfSummaryCountryPopulation": 2.17
+  },
+  {
+    "name": "Республика Дагестан",
+    "populationCount": 3086126,
+    "area": 50270,
+    "percentOfSummaryCountryPopulation": 2.1
+  },
+  {
+    "name": "Красноярский край",
+    "populationCount": 2874026,
+    "area": 2366797,
+    "percentOfSummaryCountryPopulation": 1.96
+  },
+  {
+    "name": "Ставропольский край",
+    "populationCount": 2795243,
+    "area": 66160,
+    "percentOfSummaryCountryPopulation": 1.9
+  },
+  {
+    "name": "Новосибирская область",
+    "populationCount": 2793384,
+    "area": 177756,
+    "percentOfSummaryCountryPopulation": 1.9
+  },
+  {
+    "name": "Кемеровская область",
+    "populationCount": 2674256,
+    "area": 95725,
+    "percentOfSummaryCountryPopulation": 1.82
+  },
+  {
+    "name": "Пермский край",
+    "populationCount": 2610800,
+    "area": 160236,
+    "percentOfSummaryCountryPopulation": 1.78
+  },
+  {
+    "name": "Волгоградская область",
+    "populationCount": 2507509,
+    "area": 112877,
+    "percentOfSummaryCountryPopulation": 1.71
+  },
+  {
+    "name": "Саратовская область",
+    "populationCount": 2440815,
+    "area": 101240,
+    "percentOfSummaryCountryPopulation": 1.66
+  },
+  {
+    "name": "Иркутская область",
+    "populationCount": 2397763,
+    "area": 774846,
+    "percentOfSummaryCountryPopulation": 1.63
+  },
+  {
+    "name": "Алтайский край",
+    "populationCount": 2332813,
+    "area": 167996,
+    "percentOfSummaryCountryPopulation": 1.59
+  },
+  {
+    "name": "Воронежская область",
+    "populationCount": 2327821,
+    "area": 52216,
+    "percentOfSummaryCountryPopulation": 1.59
+  },
+  {
+    "name": "Оренбургская область",
+    "populationCount": 1963007,
+    "area": 123702,
+    "percentOfSummaryCountryPopulation": 1.34
+  },
+  {
+    "name": "Омская область",
+    "populationCount": 1944195,
+    "area": 141140,
+    "percentOfSummaryCountryPopulation": 1.32
+  },
+  {
+    "name": "Республика Крым",
+    "populationCount": 1911818,
+    "area": 26081,
+    "percentOfSummaryCountryPopulation": 1.3
+  },
+  {
+    "name": "Приморский край",
+    "populationCount": 1902718,
+    "area": 164673,
+    "percentOfSummaryCountryPopulation": 1.3
+  },
+  {
+    "name": "Ленинградская область",
+    "populationCount": 1847867,
+    "area": 83908,
+    "percentOfSummaryCountryPopulation": 1.26
+  },
+  {
+    "name": "Ханты-Мансийский/автономный округ — Югра",
+    "populationCount": 1663795,
+    "area": 534801,
+    "percentOfSummaryCountryPopulation": 1.13
+  },
+  {
+    "name": "Белгородская область",
+    "populationCount": 1547418,
+    "area": 27134,
+    "percentOfSummaryCountryPopulation": 1.05
+  },
+  {
+    "name": "Удмуртская Республика",
+    "populationCount": 1507390,
+    "area": 42061,
+    "percentOfSummaryCountryPopulation": 1.03
+  },
+  {
+    "name": "Тульская область",
+    "populationCount": 1478818,
+    "area": 25679,
+    "percentOfSummaryCountryPopulation": 1.01
+  },
+  {
+    "name": "Чеченская Республика",
+    "populationCount": 1456951,
+    "area": 15647,
+    "percentOfSummaryCountryPopulation": 0.99
+  },
+  {
+    "name": "Владимирская область",
+    "populationCount": 1365805,
+    "area": 29084,
+    "percentOfSummaryCountryPopulation": 0.93
+  },
+  {
+    "name": "Хабаровский край",
+    "populationCount": 1321473,
+    "area": 787633,
+    "percentOfSummaryCountryPopulation": 0.9
+  },
+  {
+    "name": "Пензенская область",
+    "populationCount": 1318103,
+    "area": 43352,
+    "percentOfSummaryCountryPopulation": 0.9
+  },
+  {
+    "name": "Кировская область",
+    "populationCount": 1272109,
+    "area": 120374,
+    "percentOfSummaryCountryPopulation": 0.87
+  },
+  {
+    "name": "Тверская область",
+    "populationCount": 1269636,
+    "area": 84201,
+    "percentOfSummaryCountryPopulation": 0.86
+  },
+  {
+    "name": "Ярославская область",
+    "populationCount": 1259612,
+    "area": 36177,
+    "percentOfSummaryCountryPopulation": 0.86
+  },
+  {
+    "name": "Ульяновская область",
+    "populationCount": 1238416,
+    "area": 37181,
+    "percentOfSummaryCountryPopulation": 0.84
+  },
+  {
+    "name": "Чувашская Республика",
+    "populationCount": 1223395,
+    "area": 18343,
+    "percentOfSummaryCountryPopulation": 0.83
+  },
+  {
+    "name": "Брянская область",
+    "populationCount": 1200187,
+    "area": 34857,
+    "percentOfSummaryCountryPopulation": 0.82
+  },
+  {
+    "name": "Вологодская область",
+    "populationCount": 1167713,
+    "area": 144527,
+    "percentOfSummaryCountryPopulation": 0.8
+  },
+  {
+    "name": "Архангельская область",
+    "populationCount": 1144119,
+    "area": 589913,
+    "percentOfSummaryCountryPopulation": 0.78
+  },
+  {
+    "name": "Липецкая область",
+    "populationCount": 1144035,
+    "area": 24047,
+    "percentOfSummaryCountryPopulation": 0.78
+  },
+  {
+    "name": "Рязанская область",
+    "populationCount": 1114137,
+    "area": 39605,
+    "percentOfSummaryCountryPopulation": 0.76
+  },
+  {
+    "name": "Курская область",
+    "populationCount": 1107041,
+    "area": 29997,
+    "percentOfSummaryCountryPopulation": 0.75
+  },
+  {
+    "name": "Томская область",
+    "populationCount": 1077442,
+    "area": 314391,
+    "percentOfSummaryCountryPopulation": 0.73
+  },
+  {
+    "name": "Забайкальский край",
+    "populationCount": 1065785,
+    "area": 431892,
+    "percentOfSummaryCountryPopulation": 0.73
+  },
+  {
+    "name": "Тамбовская область",
+    "populationCount": 1015966,
+    "area": 34462,
+    "percentOfSummaryCountryPopulation": 0.69
+  },
+  {
+    "name": "Астраханская область",
+    "populationCount": 1014065,
+    "area": 49024,
+    "percentOfSummaryCountryPopulation": 0.69
+  },
+  {
+    "name": "Калужская область",
+    "populationCount": 1009377,
+    "area": 29777,
+    "percentOfSummaryCountryPopulation": 0.69
+  },
+  {
+    "name": "Ивановская область",
+    "populationCount": 1004180,
+    "area": 21437,
+    "percentOfSummaryCountryPopulation": 0.68
+  },
+  {
+    "name": "Калининградская область",
+    "populationCount": 1002187,
+    "area": 15125,
+    "percentOfSummaryCountryPopulation": 0.68
+  },
+  {
+    "name": "Республика Бурятия",
+    "populationCount": 983273,
+    "area": 351334,
+    "percentOfSummaryCountryPopulation": 0.67
+  },
+  {
+    "name": "Республика Саха (Якутия)",
+    "populationCount": 967009,
+    "area": 3083523,
+    "percentOfSummaryCountryPopulation": 0.66
+  },
+  {
+    "name": "Смоленская область",
+    "populationCount": 942363,
+    "area": 49779,
+    "percentOfSummaryCountryPopulation": 0.64
+  },
+  {
+    "name": "Кабардино-Балкарская Республика",
+    "populationCount": 866219,
+    "area": 12470,
+    "percentOfSummaryCountryPopulation": 0.59
+  },
+  {
+    "name": "Курганская область",
+    "populationCount": 834701,
+    "area": 71488,
+    "percentOfSummaryCountryPopulation": 0.57
+  },
+  {
+    "name": "Республика Коми",
+    "populationCount": 830235,
+    "area": 416774,
+    "percentOfSummaryCountryPopulation": 0.57
+  },
+  {
+    "name": "Республика Мордовия",
+    "populationCount": 795504,
+    "area": 26128,
+    "percentOfSummaryCountryPopulation": 0.54
+  },
+  {
+    "name": "Амурская область",
+    "populationCount": 793194,
+    "area": 361908,
+    "percentOfSummaryCountryPopulation": 0.54
+  },
+  {
+    "name": "Мурманская область",
+    "populationCount": 748056,
+    "area": 144902,
+    "percentOfSummaryCountryPopulation": 0.51
+  },
+  {
+    "name": "Орловская область",
+    "populationCount": 739467,
+    "area": 24652,
+    "percentOfSummaryCountryPopulation": 0.5
+  },
+  {
+    "name": "Республика Северная/Осетия — Алания",
+    "populationCount": 699253,
+    "area": 7987,
+    "percentOfSummaryCountryPopulation": 0.48
+  },
+  {
+    "name": "Республика Марий Эл",
+    "populationCount": 680380,
+    "area": 23375,
+    "percentOfSummaryCountryPopulation": 0.46
+  },
+  {
+    "name": "Костромская область",
+    "populationCount": 637267,
+    "area": 60211,
+    "percentOfSummaryCountryPopulation": 0.43
+  },
+  {
+    "name": "Псковская область",
+    "populationCount": 629651,
+    "area": 55399,
+    "percentOfSummaryCountryPopulation": 0.43
+  },
+  {
+    "name": "Республика Карелия",
+    "populationCount": 618056,
+    "area": 180520,
+    "percentOfSummaryCountryPopulation": 0.42
+  },
+  {
+    "name": "Новгородская область",
+    "populationCount": 600296,
+    "area": 54501,
+    "percentOfSummaryCountryPopulation": 0.41
+  },
+  {
+    "name": "Ямало-Ненецкий автономный округ",
+    "populationCount": 541479,
+    "area": 769250,
+    "percentOfSummaryCountryPopulation": 0.37
+  },
+  {
+    "name": "Республика Хакасия",
+    "populationCount": 536167,
+    "area": 61569,
+    "percentOfSummaryCountryPopulation": 0.37
+  },
+  {
+    "name": "Республика Ингушетия",
+    "populationCount": 497393,
+    "area": 3628,
+    "percentOfSummaryCountryPopulation": 0.34
+  },
+  {
+    "name": "Сахалинская область",
+    "populationCount": 489638,
+    "area": 87101,
+    "percentOfSummaryCountryPopulation": 0.33
+  },
+  {
+    "name": "Карачаево-Черкесская Республика",
+    "populationCount": 465563,
+    "area": 14277,
+    "percentOfSummaryCountryPopulation": 0.32
+  },
+  {
+    "name": "Республика Адыгея",
+    "populationCount": 454744,
+    "area": 7792,
+    "percentOfSummaryCountryPopulation": 0.31
+  },
+  {
+    "name": "Севастополь",
+    "populationCount": 443212,
+    "area": 864,
+    "percentOfSummaryCountryPopulation": 0.3
+  },
+  {
+    "name": "Республика Тыва",
+    "populationCount": 324423,
+    "area": 168604,
+    "percentOfSummaryCountryPopulation": 0.22
+  },
+  {
+    "name": "Камчатский край",
+    "populationCount": 314723,
+    "area": 464275,
+    "percentOfSummaryCountryPopulation": 0.21
+  },
+  {
+    "name": "Республика Калмыкия",
+    "populationCount": 272647,
+    "area": 74731,
+    "percentOfSummaryCountryPopulation": 0.19
+  },
+  {
+    "name": "Республика Алтай",
+    "populationCount": 218866,
+    "area": 92903,
+    "percentOfSummaryCountryPopulation": 0.15
+  },
+  {
+    "name": "Еврейская автономная область",
+    "populationCount": 159913,
+    "area": 36271,
+    "percentOfSummaryCountryPopulation": 0.11
+  },
+  {
+    "name": "Магаданская область",
+    "populationCount": 141234,
+    "area": 462464,
+    "percentOfSummaryCountryPopulation": 0.1
+  },
+  {
+    "name": "Чукотский автономный округ",
+    "populationCount": 49663,
+    "area": 721481,
+    "percentOfSummaryCountryPopulation": 0.03
+  },
+  {
+    "name": "Ненецкий автономный округ",
+    "populationCount": 43829,
+    "area": 176810,
+    "percentOfSummaryCountryPopulation": 0.03
+  }
+]
