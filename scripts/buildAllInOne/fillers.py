@@ -41,6 +41,7 @@ def subjsWithCapitals(processedSubjs, capitalsData):
       # print(helpers.stringsSimilarity(val["name"], subVal["name"]))
       if helpers.stringsSimilarity(val["name"], subVal["name"]) > 0.97:
         processedSubjs[index]["capitalCityName"] = subVal["capitalCityName"]
+        processedSubjs[index]["capitalCityPopulationCount"] = subVal["capitalCityPopulationCount"]
   return processedSubjs
 
 def subjsWithElections(processedSubjs, electionsData):

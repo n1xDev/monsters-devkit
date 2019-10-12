@@ -5,6 +5,7 @@ def subject():
     "isoName": "",
     "localName": "",
     "capitalCityName": "",
+    "capitalCityPopulationCount": 0,
     "polygons": [],
     "population": 0,
     "salary": 0,
