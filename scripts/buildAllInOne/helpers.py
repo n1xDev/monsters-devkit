@@ -1,11 +1,14 @@
-import re
+import re, difflib
 
 # Help methods
 def isSubjNameSame(firstSubjName, secondSubjName):
   return True
+  
+def stringsSimilarity(firstStr, secondStr):
+  return difflib.SequenceMatcher(a=firstStr.lower(), b=secondStr.lower()).ratio()
 
 def getUniversalSubjName(currName):
-  return ""
+  return currName
 
 def isTextContainsCyrillic(text):
   return bool(re.search('[а-яА-Я]', text))

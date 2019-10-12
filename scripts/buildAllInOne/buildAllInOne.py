@@ -16,9 +16,16 @@ def main():
   service.checkForRequiredFiles(consts.requiredFiles)
   print("[i] All required files are found!")
 
-  # Stage 1: get only all subjects
+  # Stage 1: get all subjects
   allSubjs = getters.getAllSubjs()
   allFilledSubjs = fillers.subjects(allSubjs)
-  print(allFilledSubjs)
+  print(*allFilledSubjs, sep='\n\n')
+  print("\n[i] Russian subjects count: " + str(len(allFilledSubjs)))
+
+  # Stage 2: get all additional information(e.g.: population, internet, education) about subjects
+  processedPopulation = getters.getSubjsPopulation()
+
+  # Stage 3: fill all subjects(population, internet, education)
+
 
 main()

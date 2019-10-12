@@ -2,9 +2,13 @@
 # -*- coding: utf-8 -*-
 
 import os, json
-import consts
+import consts, service
 
 def getAllSubjs():
-  allSubjsFile = open(consts.requiredFiles[0], "r")
-  allSubjs = json.loads(allSubjsFile.read())
-  return allSubjs
+  return service.getObjFromJsonFile(consts.requiredFiles["processedSubjectsWithPolygons"])
+
+def getSubjsPopulation():
+  return service.getObjFromJsonFile(consts.requiredFiles["processedPopulation"])
+
+def getSubjsEducation():
+  return service.getObjFromJsonFile(consts.requiredFiles["processedEducation"])

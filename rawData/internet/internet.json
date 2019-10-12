@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Москва",
+    "population": 12330126,
+    "penetrationPercentage": 30.7,
+    "socialPostsAuthorsCount": 3785252
+  },
+  {
+    "name": "Санкт-Петербург",
+    "population": 5225690,
+    "penetrationPercentage": 54.53,
+    "socialPostsAuthorsCount": 2849602
+  },
+  {
+    "name": "Свердловская область",
+    "population": 4330006,
+    "penetrationPercentage": 25.59,
+    "socialPostsAuthorsCount": 1108244
+  },
+  {
+    "name": "Челябинская область",
+    "population": 3500716,
+    "penetrationPercentage": 29.14,
+    "socialPostsAuthorsCount": 1020133
+  },
+  {
+    "name": "Республика Татарстан (Татарстан)",
+    "population": 3868730,
+    "penetrationPercentage": 23.83,
+    "socialPostsAuthorsCount": 922004
+  },
+  {
+    "name": "Краснодарский край",
+    "population": 5513804,
+    "penetrationPercentage": 16.21,
+    "socialPostsAuthorsCount": 893995
+  },
+  {
+    "name": "Республика Башкортостан",
+    "population": 4071064,
+    "penetrationPercentage": 21.91,
+    "socialPostsAuthorsCount": 891961
+  },
+  {
+    "name": "Самарская область",
+    "population": 3205975,
+    "penetrationPercentage": 26.93,
+    "socialPostsAuthorsCount": 863433
+  },
+  {
+    "name": "Московская область",
+    "population": 7318647,
+    "penetrationPercentage": 11.65,
+    "socialPostsAuthorsCount": 852261
+  },
+  {
+    "name": "Пермский край",
+    "population": 2634409,
+    "penetrationPercentage": 31.29,
+    "socialPostsAuthorsCount": 824432
+  },
+  {
+    "name": "Нижегородская область",
+    "population": 3260267,
+    "penetrationPercentage": 23.93,
+    "socialPostsAuthorsCount": 780090
+  },
+  {
+    "name": "Ростовская область",
+    "population": 4236000,
+    "penetrationPercentage": 17.09,
+    "socialPostsAuthorsCount": 724134
+  },
+  {
+    "name": "Новосибирская область",
+    "population": 2762237,
+    "penetrationPercentage": 23.64,
+    "socialPostsAuthorsCount": 652982
+  },
+  {
+    "name": "Красноярский край",
+    "population": 2866490,
+    "penetrationPercentage": 21.12,
+    "socialPostsAuthorsCount": 605451
+  },
+  {
+    "name": "Воронежская область",
+    "population": 2333477,
+    "penetrationPercentage": 19.94,
+    "socialPostsAuthorsCount": 465269
+  },
+  {
+    "name": "Кемеровская область",
+    "population": 2717627,
+    "penetrationPercentage": 16.67,
+    "socialPostsAuthorsCount": 452896
+  },
+  {
+    "name": "Вологодская область",
+    "population": 1187685,
+    "penetrationPercentage": 36.29,
+    "socialPostsAuthorsCount": 430999
+  },
+  {
+    "name": "Омская область",
+    "population": 1978466,
+    "penetrationPercentage": 20.86,
+    "socialPostsAuthorsCount": 412675
+  },
+  {
+    "name": "Удмуртская Республика",
+    "population": 1517164,
+    "penetrationPercentage": 26.91,
+    "socialPostsAuthorsCount": 408201
+  },
+  {
+    "name": "Оренбургская область",
+    "population": 1994762,
+    "penetrationPercentage": 20.18,
+    "socialPostsAuthorsCount": 402490
+  },
+  {
+    "name": "Волгоградская область",
+    "population": 2545937,
+    "penetrationPercentage": 15.61,
+    "socialPostsAuthorsCount": 397540
+  },
+  {
+    "name": "Архангельская область",
+    "population": 1130240,
+    "penetrationPercentage": 34.81,
+    "socialPostsAuthorsCount": 393411
+  },
+  {
+    "name": "Тюменская область",
+    "population": 1454626,
+    "penetrationPercentage": 26.71,
+    "socialPostsAuthorsCount": 388469
+  },
+  {
+    "name": "Ярославская область",
+    "population": 1271912,
+    "penetrationPercentage": 29.82,
+    "socialPostsAuthorsCount": 379249
+  },
+  {
+    "name": "Саратовская область",
+    "population": 2487529,
+    "penetrationPercentage": 14.93,
+    "socialPostsAuthorsCount": 371500
+  },
+  {
+    "name": "Иркутская область",
+    "population": 2412800,
+    "penetrationPercentage": 15.29,
+    "socialPostsAuthorsCount": 368976
+  },
+  {
+    "name": "Ханты-Мансийский автономный округ - Югра",
+    "population": 1626755,
+    "penetrationPercentage": 21.49,
+    "socialPostsAuthorsCount": 349666
+  },
+  {
+    "name": "Кировская область",
+    "population": 1297474,
+    "penetrationPercentage": 26.56,
+    "socialPostsAuthorsCount": 344564
+  },
+  {
+    "name": "Калининградская область",
+    "population": 976439,
+    "penetrationPercentage": 35.09,
+    "socialPostsAuthorsCount": 342635
+  },
+  {
+    "name": "Тверская область",
+    "population": 1304744,
+    "penetrationPercentage": 23.74,
+    "socialPostsAuthorsCount": 309740
+  },
+  {
+    "name": "Тульская область",
+    "population": 1506446,
+    "penetrationPercentage": 19.62,
+    "socialPostsAuthorsCount": 295638
+  },
+  {
+    "name": "Белгородская область",
+    "population": 1550137,
+    "penetrationPercentage": 18.78,
+    "socialPostsAuthorsCount": 291119
+  },
+  {
+    "name": "Мурманская область",
+    "population": 762173,
+    "penetrationPercentage": 38,
+    "socialPostsAuthorsCount": 289657
+  },
+  {
+    "name": "Ленинградская область",
+    "population": 1778857,
+    "penetrationPercentage": 15.77,
+    "socialPostsAuthorsCount": 280551
+  },
+  {
+    "name": "Алтайский край",
+    "population": 2376774,
+    "penetrationPercentage": 11.53,
+    "socialPostsAuthorsCount": 273995
+  },
+  {
+    "name": "Республика Коми",
+    "population": 856831,
+    "penetrationPercentage": 31.02,
+    "socialPostsAuthorsCount": 265795
+  },
+  {
+    "name": "Ставропольский край",
+    "population": 2801597,
+    "penetrationPercentage": 8.9,
+    "socialPostsAuthorsCount": 249471
+  },
+  {
+    "name": "Владимирская область",
+    "population": 1397168,
+    "penetrationPercentage": 17.83,
+    "socialPostsAuthorsCount": 249057
+  },
+  {
+    "name": "Ульяновская область",
+    "population": 1257621,
+    "penetrationPercentage": 18.75,
+    "socialPostsAuthorsCount": 235794
+  },
+  {
+    "name": "Республика Карелия",
+    "population": 629875,
+    "penetrationPercentage": 37.03,
+    "socialPostsAuthorsCount": 233255
+  },
+  {
+    "name": "Курская область",
+    "population": 1120019,
+    "penetrationPercentage": 20.54,
+    "socialPostsAuthorsCount": 230034
+  },
+  {
+    "name": "Липецкая область",
+    "population": 1156093,
+    "penetrationPercentage": 18.68,
+    "socialPostsAuthorsCount": 215907
+  },
+  {
+    "name": "Рязанская область",
+    "population": 1130103,
+    "penetrationPercentage": 19.07,
+    "socialPostsAuthorsCount": 215507
+  },
+  {
+    "name": "Пензенская область",
+    "population": 1348703,
+    "penetrationPercentage": 15.74,
+    "socialPostsAuthorsCount": 212256
+  },
+  {
+    "name": "Чувашская Республика - Чувашия",
+    "population": 1236628,
+    "penetrationPercentage": 16.95,
+    "socialPostsAuthorsCount": 209670
+  },
+  {
+    "name": "Брянская область",
+    "population": 1225741,
+    "penetrationPercentage": 17.07,
+    "socialPostsAuthorsCount": 209186
+  },
+  {
+    "name": "Томская область",
+    "population": 1076762,
+    "penetrationPercentage": 18.65,
+    "socialPostsAuthorsCount": 200860
+  },
+  {
+    "name": "Приморский край",
+    "population": 1929008,
+    "penetrationPercentage": 10.35,
+    "socialPostsAuthorsCount": 199641
+  },
+  {
+    "name": "Псковская область",
+    "population": 646374,
+    "penetrationPercentage": 29.35,
+    "socialPostsAuthorsCount": 189716
+  },
+  {
+    "name": "Новгородская область",
+    "population": 615692,
+    "penetrationPercentage": 30.54,
+    "socialPostsAuthorsCount": 188054
+  },
+  {
+    "name": "Калужская область",
+    "population": 1009772,
+    "penetrationPercentage": 17.96,
+    "socialPostsAuthorsCount": 181348
+  },
+  {
+    "name": "Ивановская область",
+    "population": 1029838,
+    "penetrationPercentage": 17.23,
+    "socialPostsAuthorsCount": 177458
+  },
+  {
+    "name": "Смоленская область",
+    "population": 958630,
+    "penetrationPercentage": 17.58,
+    "socialPostsAuthorsCount": 168540
+  },
+  {
+    "name": "Тамбовская область",
+    "population": 1050295,
+    "penetrationPercentage": 15.58,
+    "socialPostsAuthorsCount": 163591
+  },
+  {
+    "name": "Орловская область",
+    "population": 759721,
+    "penetrationPercentage": 21.19,
+    "socialPostsAuthorsCount": 160954
+  },
+  {
+    "name": "Хабаровский край",
+    "population": 1334552,
+    "penetrationPercentage": 11.91,
+    "socialPostsAuthorsCount": 158969
+  },
+  {
+    "name": "Курганская область",
+    "population": 861896,
+    "penetrationPercentage": 18.09,
+    "socialPostsAuthorsCount": 155922
+  },
+  {
+    "name": "Республика Бурятия",
+    "population": 982284,
+    "penetrationPercentage": 15.28,
+    "socialPostsAuthorsCount": 150045
+  },
+  {
+    "name": "Забайкальский край",
+    "population": 1083012,
+    "penetrationPercentage": 13.04,
+    "socialPostsAuthorsCount": 141260
+  },
+  {
+    "name": "Севастополь",
+    "population": 416263,
+    "penetrationPercentage": 33.62,
+    "socialPostsAuthorsCount": 139936
+  },
+  {
+    "name": "Костромская область",
+    "population": 651450,
+    "penetrationPercentage": 20.82,
+    "socialPostsAuthorsCount": 135600
+  },
+  {
+    "name": "Астраханская область",
+    "population": 1018626,
+    "penetrationPercentage": 12.83,
+    "socialPostsAuthorsCount": 130656
+  },
+  {
+    "name": "Республика Мордовия",
+    "population": 807453,
+    "penetrationPercentage": 15.9,
+    "socialPostsAuthorsCount": 128381
+  },
+  {
+    "name": "Республика Марий Эл",
+    "population": 685865,
+    "penetrationPercentage": 18.46,
+    "socialPostsAuthorsCount": 126598
+  },
+  {
+    "name": "Ямало-Ненецкий автономный округ",
+    "population": 534104,
+    "penetrationPercentage": 22.33,
+    "socialPostsAuthorsCount": 119270
+  },
+  {
+    "name": "Республика Дагестан",
+    "population": 3015660,
+    "penetrationPercentage": 3.41,
+    "socialPostsAuthorsCount": 102873
+  },
+  {
+    "name": "Республика Хакасия",
+    "population": 536781,
+    "penetrationPercentage": 17.11,
+    "socialPostsAuthorsCount": 91826
+  },
+  {
+    "name": "Республика Крым",
+    "population": 1907106,
+    "penetrationPercentage": 4.69,
+    "socialPostsAuthorsCount": 89459
+  },
+  {
+    "name": "Сахалинская область",
+    "population": 487293,
+    "penetrationPercentage": 17.86,
+    "socialPostsAuthorsCount": 87016
+  },
+  {
+    "name": "Амурская область",
+    "population": 805689,
+    "penetrationPercentage": 9.69,
+    "socialPostsAuthorsCount": 78044
+  },
+  {
+    "name": "Республика Саха (Якутия)",
+    "population": 959689,
+    "penetrationPercentage": 7.79,
+    "socialPostsAuthorsCount": 74748
+  },
+  {
+    "name": "Республика Северная Осетия - Алания",
+    "population": 703745,
+    "penetrationPercentage": 7.19,
+    "socialPostsAuthorsCount": 50569
+  },
+  {
+    "name": "Республика Тыва",
+    "population": 315637,
+    "penetrationPercentage": 15.07,
+    "socialPostsAuthorsCount": 47569
+  },
+  {
+    "name": "Чеченская Республика",
+    "population": 1394172,
+    "penetrationPercentage": 3,
+    "socialPostsAuthorsCount": 41764
+  },
+  {
+    "name": "Кабардино-Балкарская Республика",
+    "population": 862254,
+    "penetrationPercentage": 4.44,
+    "socialPostsAuthorsCount": 38280
+  },
+  {
+    "name": "Республика Алтай",
+    "population": 215161,
+    "penetrationPercentage": 14.08,
+    "socialPostsAuthorsCount": 30292
+  },
+  {
+    "name": "Республика Калмыкия",
+    "population": 278733,
+    "penetrationPercentage": 10.7,
+    "socialPostsAuthorsCount": 29826
+  },
+  {
+    "name": "Республика Адыгея (Адыгея)",
+    "population": 451480,
+    "penetrationPercentage": 6.03,
+    "socialPostsAuthorsCount": 27218
+  },
+  {
+    "name": "Камчатский край",
+    "population": 316116,
+    "penetrationPercentage": 8.35,
+    "socialPostsAuthorsCount": 26401
+  },
+  {
+    "name": "Республика Карачаево-Черкесия",
+    "population": 467797,
+    "penetrationPercentage": 4.03,
+    "socialPostsAuthorsCount": 18836
+  },
+  {
+    "name": "Магаданская область",
+    "population": 146345,
+    "penetrationPercentage": 10.34,
+    "socialPostsAuthorsCount": 15130
+  },
+  {
+    "name": "Ненецкий автономный округ",
+    "population": 43838,
+    "penetrationPercentage": 26.8,
+    "socialPostsAuthorsCount": 11748
+  },
+  {
+    "name": "Еврейская автономная область",
+    "population": 166120,
+    "penetrationPercentage": 6.28,
+    "socialPostsAuthorsCount": 10430
+  },
+  {
+    "name": "Республика Ингушетия",
+    "population": 472776,
+    "penetrationPercentage": 2.12,
+    "socialPostsAuthorsCount": 10016
+  },
+  {
+    "name": "Чукотский автономный округ",
+    "population": 50157,
+    "penetrationPercentage": 9.39,
+    "socialPostsAuthorsCount": 4709
+  }
+]

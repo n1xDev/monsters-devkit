@@ -2,6 +2,7 @@
 def subject():
   schema = {
     "name": "",
+    "isoName": "",
     "localName": "",
     "polygons": [],
     "population": 0,
