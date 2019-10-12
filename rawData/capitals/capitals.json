@@ -1,0 +1,427 @@
+[
+  {
+    "name": "Республика Адыгея",
+    "capitalCityName": "Майкоп",
+    "federalDistrict": " Южный"
+  },
+  {
+    "name": "Республика Алтай",
+    "capitalCityName": "Горно-Алтайск",
+    "federalDistrict": " Сибирский"
+  },
+  {
+    "name": "Алтайский край",
+    "capitalCityName": "Барнаул",
+    "federalDistrict": " Сибирский"
+  },
+  {
+    "name": "Амурская область",
+    "capitalCityName": "Благовещенск",
+    "federalDistrict": " Дальневосточный"
+  },
+  {
+    "name": "Архангельская область",
+    "capitalCityName": "Архангельск",
+    "federalDistrict": " <span style=\"white-space: nowrap;\">Северо-Западный</span>"
+  },
+  {
+    "name": "Астраханская область",
+    "capitalCityName": "Астрахань",
+    "federalDistrict": " Южный"
+  },
+  {
+    "name": "Республика Башкортостан",
+    "capitalCityName": "Уфа",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Белгородская область",
+    "capitalCityName": "Белгород",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Брянская область",
+    "capitalCityName": "Брянск",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Республика Бурятия",
+    "capitalCityName": "Улан-Удэ",
+    "federalDistrict": " Дальневосточный"
+  },
+  {
+    "name": "Владимирская область",
+    "capitalCityName": "Владимир",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Волгоградская область",
+    "capitalCityName": "Волгоград",
+    "federalDistrict": " Южный"
+  },
+  {
+    "name": "Вологодская область",
+    "capitalCityName": "Вологда",
+    "federalDistrict": " <span style=\"white-space: nowrap;\">Северо-Западный</span>"
+  },
+  {
+    "name": "Воронежская область",
+    "capitalCityName": "Воронеж",
+    "federalDistrict": "Центральный"
+  },
+  {
+    "name": "Республика Дагестан",
+    "capitalCityName": "Махачкала",
+    "federalDistrict": " Северо-Кавказский"
+  },
+  {
+    "name": "Еврейская автономная область",
+    "capitalCityName": "Биробиджан",
+    "federalDistrict": " Дальневосточный"
+  },
+  {
+    "name": "Забайкальский край",
+    "capitalCityName": "Чита",
+    "federalDistrict": " Дальневосточный"
+  },
+  {
+    "name": "Ивановская область",
+    "capitalCityName": "Иваново",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Республика Ингушетия",
+    "capitalCityName": "Магас",
+    "federalDistrict": " Северо-Кавказский"
+  },
+  {
+    "name": "Иркутская область",
+    "capitalCityName": "Иркутск",
+    "federalDistrict": " Сибирский"
+  },
+  {
+    "name": "Кабардино-Балкарская Республика",
+    "capitalCityName": "Нальчик",
+    "federalDistrict": " Северо-Кавказский"
+  },
+  {
+    "name": "Калининградская область",
+    "capitalCityName": "Калининград",
+    "federalDistrict": " <span style=\"white-space: nowrap;\">Северо-Западный</span>"
+  },
+  {
+    "name": "Республика Калмыкия",
+    "capitalCityName": "Элиста",
+    "federalDistrict": " Южный"
+  },
+  {
+    "name": "Калужская область",
+    "capitalCityName": "Калуга",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Камчатский край",
+    "capitalCityName": "Петропавловск-Камчатский",
+    "federalDistrict": " Дальневосточный"
+  },
+  {
+    "name": "Карачаево-Черкесская Республика",
+    "capitalCityName": "Черкесск",
+    "federalDistrict": " Северо-Кавказский"
+  },
+  {
+    "name": "Республика Карелия",
+    "capitalCityName": "Петрозаводск",
+    "federalDistrict": " <span style=\"white-space: nowrap;\">Северо-Западный</span>"
+  },
+  {
+    "name": "Кемеровская область",
+    "capitalCityName": "Кемерово",
+    "federalDistrict": " Сибирский"
+  },
+  {
+    "name": "Кировская область",
+    "capitalCityName": "Киров",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Республика Коми",
+    "capitalCityName": "Сыктывкар",
+    "federalDistrict": " <span style=\"white-space: nowrap;\">Северо-Западный</span>"
+  },
+  {
+    "name": "Костромская область",
+    "capitalCityName": "Кострома",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Краснодарский край",
+    "capitalCityName": "Краснодар",
+    "federalDistrict": " Южный"
+  },
+  {
+    "name": "Красноярский край",
+    "capitalCityName": "Красноярск",
+    "federalDistrict": " Сибирский"
+  },
+  {
+    "name": "Республика Крым",
+    "capitalCityName": "Симферополь",
+    "federalDistrict": " Южный"
+  },
+  {
+    "name": "Курганская область",
+    "capitalCityName": "Курган",
+    "federalDistrict": " Уральский"
+  },
+  {
+    "name": "Курская область",
+    "capitalCityName": "Курск",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Ленинградская область",
+    "capitalCityName": "Санкт-Петербург",
+    "federalDistrict": " <span style=\"white-space: nowrap;\">Северо-Западный</span>"
+  },
+  {
+    "name": "Липецкая область",
+    "capitalCityName": "Липецк",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Магаданская область",
+    "capitalCityName": "Магадан",
+    "federalDistrict": " Дальневосточный"
+  },
+  {
+    "name": "Республика Марий Эл",
+    "capitalCityName": "Йошкар-Ола",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Республика Мордовия",
+    "capitalCityName": "Саранск",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Москва",
+    "capitalCityName": "Москва",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Московская область",
+    "capitalCityName": "Москва",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Мурманская область",
+    "capitalCityName": "Мурманск",
+    "federalDistrict": " <span style=\"white-space: nowrap;\">Северо-Западный</span>"
+  },
+  {
+    "name": "Ненецкий автономный округ",
+    "capitalCityName": "Нарьян-Мар",
+    "federalDistrict": " <span style=\"white-space: nowrap;\">Северо-Западный</span>"
+  },
+  {
+    "name": "Нижегородская область",
+    "capitalCityName": "Нижний Новгород",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Новгородская область",
+    "capitalCityName": "Великий Новгород",
+    "federalDistrict": " <span style=\"white-space: nowrap;\">Северо-Западный</span>"
+  },
+  {
+    "name": "Новосибирская область",
+    "capitalCityName": "Новосибирск",
+    "federalDistrict": " Сибирский"
+  },
+  {
+    "name": "Омская область",
+    "capitalCityName": "Омск",
+    "federalDistrict": " Сибирский"
+  },
+  {
+    "name": "Оренбургская область",
+    "capitalCityName": "Оренбург",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Орловская область",
+    "capitalCityName": "Орёл",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Пензенская область",
+    "capitalCityName": "Пенза",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Пермский край",
+    "capitalCityName": "Пермь",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Приморский край",
+    "capitalCityName": "Владивосток",
+    "federalDistrict": " Дальневосточный"
+  },
+  {
+    "name": "Псковская область",
+    "capitalCityName": "Псков",
+    "federalDistrict": " <span style=\"white-space: nowrap;\">Северо-Западный</span>"
+  },
+  {
+    "name": "Ростовская область",
+    "capitalCityName": "Ростов-на-Дону",
+    "federalDistrict": " Южный"
+  },
+  {
+    "name": "Рязанская область",
+    "capitalCityName": "Рязань",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Самарская область",
+    "capitalCityName": "Самара",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Саратовская область",
+    "capitalCityName": "Саратов",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Санкт-Петербург",
+    "capitalCityName": "Санкт-Петербург",
+    "federalDistrict": " <span style=\"white-space: nowrap;\">Северо-Западный</span>"
+  },
+  {
+    "name": "Республика Саха — Якутия",
+    "capitalCityName": "Якутск",
+    "federalDistrict": " Дальневосточный"
+  },
+  {
+    "name": "Сахалинская область",
+    "capitalCityName": "Южно-Сахалинск",
+    "federalDistrict": " Дальневосточный"
+  },
+  {
+    "name": "Свердловская область",
+    "capitalCityName": "Екатеринбург",
+    "federalDistrict": " Уральский"
+  },
+  {
+    "name": "Севастополь",
+    "capitalCityName": "Севастополь",
+    "federalDistrict": " Южный"
+  },
+  {
+    "name": "Смоленская область",
+    "capitalCityName": "Смоленск",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Республика Северная Осетия — Алания",
+    "capitalCityName": "Владикавказ",
+    "federalDistrict": " Северо-Кавказский"
+  },
+  {
+    "name": "Ставропольский край",
+    "capitalCityName": "Ставрополь",
+    "federalDistrict": " Северо-Кавказский"
+  },
+  {
+    "name": "Тамбовская область",
+    "capitalCityName": "Тамбов",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Республика Татарстан",
+    "capitalCityName": "Казань",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Тверская область",
+    "capitalCityName": "Тверь",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Томская область",
+    "capitalCityName": "Томск",
+    "federalDistrict": " Сибирский"
+  },
+  {
+    "name": "Тульская область",
+    "capitalCityName": "Тула",
+    "federalDistrict": " Центральный"
+  },
+  {
+    "name": "Республика Тыва",
+    "capitalCityName": "Кызыл",
+    "federalDistrict": " Сибирский"
+  },
+  {
+    "name": "Тюменская область",
+    "capitalCityName": "Тюмень",
+    "federalDistrict": " Уральский"
+  },
+  {
+    "name": "Удмуртская республика",
+    "capitalCityName": "Ижевск",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Ульяновская область",
+    "capitalCityName": "Ульяновск",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Хабаровский край",
+    "capitalCityName": "Хабаровск",
+    "federalDistrict": " Дальневосточный"
+  },
+  {
+    "name": "Республика Хакасия",
+    "capitalCityName": "Абакан",
+    "federalDistrict": " Сибирский"
+  },
+  {
+    "name": "Ханты-Мансийский автономный округ — Югра",
+    "capitalCityName": "Ханты-Мансийск",
+    "federalDistrict": " Уральский"
+  },
+  {
+    "name": "Челябинская область",
+    "capitalCityName": "Челябинск",
+    "federalDistrict": " Уральский"
+  },
+  {
+    "name": "Чеченская Республика",
+    "capitalCityName": "Грозный",
+    "federalDistrict": " Северо-Кавказский"
+  },
+  {
+    "name": "Чувашская Республика",
+    "capitalCityName": "Чебоксары",
+    "federalDistrict": " Приволжский"
+  },
+  {
+    "name": "Чукотский автономный округ",
+    "capitalCityName": "Анадырь",
+    "federalDistrict": " Дальневосточный"
+  },
+  {
+    "name": "Ямало-Ненецкий автономный округ",
+    "capitalCityName": "Салехард",
+    "federalDistrict": " Уральский"
+  },
+  {
+    "name": "Ярославская область",
+    "capitalCityName": "Ярославль",
+    "federalDistrict": " Центральный"
+  }
+]
