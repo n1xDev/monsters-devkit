@@ -2,7 +2,7 @@
 
 import json
 
-gjSrcFilePath = "C:\\dev\\contests\\hackathons\\111019_nastachku_gamedev\\monsters-devkit\\raw-data\\subjects\\subjectsGeoJson.json"
+gjSrcFilePath = "C:\\dev\\contests\\hackathons\\111019_nastachku_gamedev\\monsters-devkit\\rawData\\subjects\\subjectsGeoJson.json"
 gjSrcFile = open(gjSrcFilePath, "r")
 gjData = json.loads(gjSrcFile.read())
 
@@ -40,7 +40,7 @@ for key in allSubjectsObj:
   allSubjectsArr.append(allSubjectsObj[key])
 
 allSubjectsArrJsonStr = json.dumps(allSubjectsArr)
-allSubjectsFile = open("C:\\dev\\contests\\hackathons\\111019_nastachku_gamedev\\monsters-devkit\\processed-data\\processedSubjectsWithPolygons.json", "w")
+allSubjectsFile = open("C:\\dev\\contests\\hackathons\\111019_nastachku_gamedev\\monsters-devkit\\processedData\\processedSubjectsWithPolygons.json", "w")
 allSubjectsFile.write(allSubjectsArrJsonStr)
 
 print("All done!")
