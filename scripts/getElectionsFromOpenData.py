@@ -20,7 +20,7 @@ for oneElection in elections:
   #   exit("Incorrect candidates count!")
   allSubjsData.append({
     "name": oneElection["name"],
-    "bulletinsCount": bulletinsCount,
+    "bulletinsCount": int(bulletinsCount),
     "candidates": candidates
   })
 

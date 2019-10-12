@@ -1,10 +1,14 @@
-import re, difflib
+import re, difflib, jellyfish
 
 # Help methods
 def isSubjNameSame(firstSubjName, secondSubjName):
   return True
   
 def stringsSimilarity(firstStr, secondStr):
+  #return difflib.SequenceMatcher(a=firstStr.lower(), b=secondStr.lower()).ratio()
+  return jellyfish.jaro_distance(firstStr, secondStr)
+  
+def stringsSimilarityV2(firstStr, secondStr):
   return difflib.SequenceMatcher(a=firstStr.lower(), b=secondStr.lower()).ratio()
 
 def getUniversalSubjName(currName):

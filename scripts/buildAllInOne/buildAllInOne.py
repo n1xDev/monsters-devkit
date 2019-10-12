@@ -36,6 +36,11 @@ def main():
 
   # Stage 3: fill all subjects(population, internet, education)
   allFilledSubjs = fillers.subjsWithPopulation(allFilledSubjs, processedPopulation)
+  allFilledSubjs = fillers.subjsWithEducation(allFilledSubjs, processedEducation)
+  allFilledSubjs = fillers.subjsWithCapitals(allFilledSubjs, processedCapitals)
+  allFilledSubjs = fillers.subjsWithElections(allFilledSubjs, processedElections)
+  allFilledSubjs = fillers.subjsWithInternet(allFilledSubjs, processedInternet)
+  allFilledSubjs = fillers.subjsWithSalaries(allFilledSubjs, processedSalaries)
   print("[i] STAGE 3: OK!")
 
   # Stage 4: save all

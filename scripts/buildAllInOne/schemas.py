@@ -4,6 +4,7 @@ def subject():
     "name": "",
     "isoName": "",
     "localName": "",
+    "capitalCityName": "",
     "polygons": [],
     "population": 0,
     "salary": 0,
@@ -22,7 +23,8 @@ def subject():
 def election():
   schema = {
     "votes": 0, # Votes count in this subject
-    "votersPercentage": 0 # Percentage of Voters
+    "votersPercentage": 0, # Percentage of Voters
+    "candidates": []
   }
   return schema
 
