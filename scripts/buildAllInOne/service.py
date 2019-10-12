@@ -1,4 +1,4 @@
-import os, json
+import os, json, codecs
 
 # Service methods
 def criticalExit(reasonMsg):
@@ -14,6 +14,6 @@ def checkForRequiredFiles(requiredFilesList):
         criticalExit("[!] checkForRequiredFiles() " + requiredFilesList[key] + " is almost empty!!!")
 
 def getObjFromJsonFile(filePath):
-  jsonFile = open(filePath, "r")
+  jsonFile = codecs.open(filePath, "r", "utf_8_sig")
   obj = json.loads(jsonFile.read())
   return obj

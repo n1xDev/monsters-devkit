@@ -16,9 +16,16 @@ def subjects(subjects):
     allSubjects.append(newSubj)
   return allSubjects
 
-def subjsWithPopulation(processedSubjs, population):
-  for index, val in range(len(processedSubjs)):
-    print(processedSubjs[index]["name"])
+def subjsWithPopulation(processedSubjs, populationData):
+  for index, val in enumerate(processedSubjs):
+    for subIndex, subVal in enumerate(populationData):
+      print(helpers.stringsSimilarity(val["name"], subVal["name"]))
+      if helpers.stringsSimilarity(val["name"], subVal["name"]) > 0.009:
+        print("OK: " + val["name"] + "/" + subVal["name"] + "")
+        processedSubjs[index]["population"] = subVal["populationCount"]
+  return processedSubjs
+
+
 
 def subjsWithEducation(processedSubjs, education):
   pass

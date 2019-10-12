@@ -3,6 +3,7 @@
 """
 # Build unified country subjects file with all data
 """
+import json
 import consts
 import helpers
 import schemas
@@ -15,17 +16,35 @@ def main():
   print("[i] Checking for required files...")
   service.checkForRequiredFiles(consts.requiredFiles)
   print("[i] All required files are found!")
+  print("[i] STAGE 0: OK!")
 
   # Stage 1: get all subjects
   allSubjs = getters.getAllSubjs()
   allFilledSubjs = fillers.subjects(allSubjs)
-  print(*allFilledSubjs, sep='\n\n')
-  print("\n[i] Russian subjects count: " + str(len(allFilledSubjs)))
+  # print(*allFilledSubjs, sep='\n\n')
+  # print("\n[i] Russian subjects count: " + str(len(allFilledSubjs)))
+  print("[i] STAGE 1: OK!")
 
   # Stage 2: get all additional information(e.g.: population, internet, education) about subjects
   processedPopulation = getters.getSubjsPopulation()
+  processedEducation = getters.getSubjsEducation()
+  processedCapitals = getters.getSubjsCapitals()
+  processedElections = getters.getSubjsElections()
+  processedInternet = getters.getSubjsInternet()
+  processedSalaries = getters.getSubjsSalaries()
+  print("[i] STAGE 2: OK!")
 
   # Stage 3: fill all subjects(population, internet, education)
+  allFilledSubjs = fillers.subjsWithPopulation(allFilledSubjs, processedPopulation)
+  print("[i] STAGE 3: OK!")
+
+  # Stage 4: save all
+  processedAllFile = open(consts.outputFilesPaths["processedAll"], "w", encoding='utf8')
+  processedAllFile.write(json.dumps(allFilledSubjs, ensure_ascii=False))
+  processedAllFile.close()
+  print("[i] STAGE 4: OK!")
+
+  print("[i] All done!!!")
 
 
 main()

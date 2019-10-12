@@ -1,6 +1,7 @@
 [
   {
-    "name": "Karachay-Cherkess",
+    "latinOrigName": "Karachay-Cherkess",
+    "name": "Карачаево-Черкесская Республика",
     "hasc": "RU.KC",
     "iso": "KC",
     "internet": 0.5,
@@ -447,7 +448,8 @@
     ]
   },
   {
-    "name": "Karelia",
+    "latinOrigName": "Karelia",
+    "name": "Республика Карелия",
     "hasc": "RU.KI",
     "iso": "KR",
     "internet": 0.5,
@@ -2230,7 +2232,8 @@
     ]
   },
   {
-    "name": "Kemerovo",
+    "latinOrigName": "Kemerovo",
+    "name": "Кемеровская область",
     "hasc": "RU.KE",
     "iso": "KEM",
     "internet": 0.5,
@@ -3313,7 +3316,8 @@
     ]
   },
   {
-    "name": "Khabarovsk",
+    "latinOrigName": "Khabarovsk",
+    "name": "Хабаровский край",
     "hasc": "RU.KH",
     "iso": "KHA",
     "internet": 0.5,
@@ -9564,7 +9568,8 @@
     ]
   },
   {
-    "name": "Khakass",
+    "latinOrigName": "Khakass",
+    "name": "Республика Хакасия",
     "hasc": "RU.KK",
     "iso": "KK",
     "internet": 0.5,
@@ -10455,7 +10460,8 @@
     ]
   },
   {
-    "name": "Khanty-Mansiy",
+    "latinOrigName": "Khanty-Mansiy",
+    "name": "Ханты-Мансийский автономный округ — Югра",
     "hasc": "RU.KM",
     "iso": "KHM",
     "internet": 0.5,
@@ -12598,7 +12604,8 @@
     ]
   },
   {
-    "name": "Adygey",
+    "latinOrigName": "Adygey",
+    "name": "Республика Адыгея",
     "hasc": "RU.AD",
     "iso": "AD",
     "internet": 0.5,
@@ -13137,7 +13144,8 @@
     ]
   },
   {
-    "name": "Altay",
+    "latinOrigName": "Altay",
+    "name": "Алтайский край",
     "hasc": "RU.AL",
     "iso": "ALT",
     "internet": 0.5,
@@ -14492,7 +14500,8 @@
     ]
   },
   {
-    "name": "Amur",
+    "latinOrigName": "Amur",
+    "name": "Амурская область",
     "hasc": "RU.AM",
     "iso": "AMU",
     "internet": 0.5,
@@ -17211,7 +17220,8 @@
     ]
   },
   {
-    "name": "Arkhangel'sk",
+    "latinOrigName": "Arkhangel'sk",
+    "name": "Архангельская область",
     "hasc": "RU.AR",
     "iso": "ARK",
     "internet": 0.5,
@@ -25930,7 +25940,8 @@
     ]
   },
   {
-    "name": "Astrakhan'",
+    "latinOrigName": "Astrakhan'",
+    "name": "Астраханская область",
     "hasc": "RU.AS",
     "iso": "AST",
     "internet": 0.5,
@@ -26829,7 +26840,8 @@
     ]
   },
   {
-    "name": "Bashkortostan",
+    "latinOrigName": "Bashkortostan",
+    "name": "Республика Башкортостан",
     "hasc": "RU.BK",
     "iso": "BA",
     "internet": 0.5,
@@ -28220,7 +28232,8 @@
     ]
   },
   {
-    "name": "Belgorod",
+    "latinOrigName": "Belgorod",
+    "name": "Белгородская область",
     "hasc": "RU.BL",
     "iso": "BEL",
     "internet": 0.5,
@@ -28927,7 +28940,8 @@
     ]
   },
   {
-    "name": "Bryansk",
+    "latinOrigName": "Bryansk",
+    "name": "Брянская область",
     "hasc": "RU.BR",
     "iso": "BRY",
     "internet": 0.5,
@@ -29778,7 +29792,8 @@
     ]
   },
   {
-    "name": "Buryat",
+    "latinOrigName": "Buryat",
+    "name": "Республика Бурятия",
     "hasc": "RU.BU",
     "iso": "BU",
     "internet": 0.5,
@@ -31957,7 +31972,8 @@
     ]
   },
   {
-    "name": "Chechnya",
+    "latinOrigName": "Chechnya",
+    "name": "Чеченская Республика",
     "hasc": "RU.CN",
     "iso": "CE",
     "internet": 0.5,
@@ -32364,7 +32380,8 @@
     ]
   },
   {
-    "name": "Chelyabinsk",
+    "latinOrigName": "Chelyabinsk",
+    "name": "Челябинская область",
     "hasc": "RU.CL",
     "iso": "CHE",
     "internet": 0.5,
@@ -33939,7 +33956,8 @@
     ]
   },
   {
-    "name": "Chukot",
+    "latinOrigName": "Chukot",
+    "name": "Чукотский автономный округ",
     "hasc": "RU.CK",
     "iso": "CHU",
     "internet": 0.5,
@@ -38530,7 +38548,8 @@
     ]
   },
   {
-    "name": "Chuvash",
+    "latinOrigName": "Chuvash",
+    "name": "Чувашская Республика",
     "hasc": "RU.CV",
     "iso": "CU",
     "internet": 0.5,
@@ -39037,7 +39056,8 @@
     ]
   },
   {
-    "name": "Saint Petersburg City",
+    "latinOrigName": "Saint Petersburg City",
+    "name": "Санкт-Петербург",
     "hasc": "RU.SP",
     "iso": "SPE",
     "internet": 0.5,
@@ -39284,7 +39304,8 @@
     ]
   },
   {
-    "name": "Dagestan",
+    "latinOrigName": "Dagestan",
+    "name": "Республика Дагестан",
     "hasc": "RU.DA",
     "iso": "DA",
     "internet": 0.5,
@@ -40331,7 +40352,8 @@
     ]
   },
   {
-    "name": "Gorno-Altay",
+    "latinOrigName": "Gorno-Altay",
+    "name": "Республика Алтай",
     "hasc": "RU.GA",
     "iso": "AL",
     "internet": 0.5,
@@ -41526,7 +41548,8 @@
     ]
   },
   {
-    "name": "Ingush",
+    "latinOrigName": "Ingush",
+    "name": "Республика Ингушетия",
     "hasc": "RU.IN",
     "iso": "IN",
     "internet": 0.5,
@@ -41761,7 +41784,8 @@
     ]
   },
   {
-    "name": "Ivanovo",
+    "latinOrigName": "Ivanovo",
+    "name": "Ивановская область",
     "hasc": "RU.IV",
     "iso": "IVA",
     "internet": 0.5,
@@ -42444,7 +42468,8 @@
     ]
   },
   {
-    "name": "Kabardin-Balkar",
+    "latinOrigName": "Kabardin-Balkar",
+    "name": "Кабардино-Балкарская Республика",
     "hasc": "RU.KB",
     "iso": "KB",
     "internet": 0.5,
@@ -42787,7 +42812,8 @@
     ]
   },
   {
-    "name": "Kaliningrad",
+    "latinOrigName": "Kaliningrad",
+    "name": "Калининградская область",
     "hasc": "RU.KN",
     "iso": "KGD",
     "internet": 0.5,
@@ -43268,7 +43294,8 @@
     ]
   },
   {
-    "name": "Kalmyk",
+    "latinOrigName": "Kalmyk",
+    "name": "Республика Калмыкия",
     "hasc": "RU.KL",
     "iso": "KL",
     "internet": 0.5,
@@ -44279,7 +44306,8 @@
     ]
   },
   {
-    "name": "Kaluga",
+    "latinOrigName": "Kaluga",
+    "name": "Калужская область",
     "hasc": "RU.KG",
     "iso": "KLU",
     "internet": 0.5,
@@ -44950,7 +44978,8 @@
     ]
   },
   {
-    "name": "Kirov",
+    "latinOrigName": "Kirov",
+    "name": "Кировская область",
     "hasc": "RU.KV",
     "iso": "KIR",
     "internet": 0.5,
@@ -46505,7 +46534,8 @@
     ]
   },
   {
-    "name": "Komi",
+    "latinOrigName": "Komi",
+    "name": "Республика Коми",
     "hasc": "RU.KO",
     "iso": "KO",
     "internet": 0.5,
@@ -48152,7 +48182,8 @@
     ]
   },
   {
-    "name": "Kostroma",
+    "latinOrigName": "Kostroma",
+    "name": "Костромская область",
     "hasc": "RU.KT",
     "iso": "KOS",
     "internet": 0.5,
@@ -49175,7 +49206,8 @@
     ]
   },
   {
-    "name": "Krasnodar",
+    "latinOrigName": "Krasnodar",
+    "name": "Краснодарский край",
     "hasc": "RU.KD",
     "iso": "KDA",
     "internet": 0.5,
@@ -50992,7 +51024,8 @@
     ]
   },
   {
-    "name": "Kurgan",
+    "latinOrigName": "Kurgan",
+    "name": "Курганская область",
     "hasc": "RU.KU",
     "iso": "KGN",
     "internet": 0.5,
@@ -51907,7 +51940,8 @@
     ]
   },
   {
-    "name": "Kursk",
+    "latinOrigName": "Kursk",
+    "name": "Курская область",
     "hasc": "RU.KS",
     "iso": "KRS",
     "internet": 0.5,
@@ -52566,7 +52600,8 @@
     ]
   },
   {
-    "name": "Leningrad",
+    "latinOrigName": "Leningrad",
+    "name": "Ленинградская область",
     "hasc": "RU.LN",
     "iso": "LEN",
     "internet": 0.5,
@@ -54109,7 +54144,8 @@
     ]
   },
   {
-    "name": "Lipetsk",
+    "latinOrigName": "Lipetsk",
+    "name": "Липецкая область",
     "hasc": "RU.LP",
     "iso": "LIP",
     "internet": 0.5,
@@ -54764,7 +54800,8 @@
     ]
   },
   {
-    "name": "Magadan",
+    "latinOrigName": "Magadan",
+    "name": "Магаданская область",
     "hasc": "RU.MG",
     "iso": "MAG",
     "internet": 0.5,
@@ -58093,7 +58130,8 @@
     ]
   },
   {
-    "name": "Mariy-El",
+    "latinOrigName": "Mariy-El",
+    "name": "Республика Марий Эл",
     "hasc": "RU.ME",
     "iso": "ME",
     "internet": 0.5,
@@ -58736,7 +58774,8 @@
     ]
   },
   {
-    "name": "Mordovia",
+    "latinOrigName": "Mordovia",
+    "name": "Республика Мордовия",
     "hasc": "RU.MR",
     "iso": "MO",
     "internet": 0.5,
@@ -59579,7 +59618,8 @@
     ]
   },
   {
-    "name": "Moskva",
+    "latinOrigName": "Moskva",
+    "name": "Москва",
     "hasc": "RU.MS",
     "iso": "MOS",
     "internet": 0.5,
@@ -60470,7 +60510,8 @@
     ]
   },
   {
-    "name": "Murmansk",
+    "latinOrigName": "Murmansk",
+    "name": "Мурманская область",
     "hasc": "RU.MM",
     "iso": "MUR",
     "internet": 0.5,
@@ -62199,7 +62240,8 @@
     ]
   },
   {
-    "name": "Nenets",
+    "latinOrigName": "Nenets",
+    "name": "Ненецкий автономный округ",
     "hasc": "RU.NN",
     "iso": "NEN",
     "internet": 0.5,
@@ -64862,7 +64904,8 @@
     ]
   },
   {
-    "name": "Nizhegorod",
+    "latinOrigName": "Nizhegorod",
+    "name": "Нижегородская область",
     "hasc": "RU.NZ",
     "iso": "NIZ",
     "internet": 0.5,
@@ -65973,7 +66016,8 @@
     ]
   },
   {
-    "name": "North Ossetia",
+    "latinOrigName": "North Ossetia",
+    "name": "Республика Северная Осетия-Алания",
     "hasc": "RU.NO",
     "iso": "SE",
     "internet": 0.5,
@@ -66316,7 +66360,8 @@
     ]
   },
   {
-    "name": "Novgorod",
+    "latinOrigName": "Novgorod",
+    "name": "Новгородская область",
     "hasc": "RU.NG",
     "iso": "NGR",
     "internet": 0.5,
@@ -67255,7 +67300,8 @@
     ]
   },
   {
-    "name": "Novosibirsk",
+    "latinOrigName": "Novosibirsk",
+    "name": "Новосибирская область",
     "hasc": "RU.NS",
     "iso": "NVS",
     "internet": 0.5,
@@ -68630,7 +68676,8 @@
     ]
   },
   {
-    "name": "Omsk",
+    "latinOrigName": "Omsk",
+    "name": "Омская область",
     "hasc": "RU.OM",
     "iso": "OMS",
     "internet": 0.5,
@@ -70049,7 +70096,8 @@
     ]
   },
   {
-    "name": "Orel",
+    "latinOrigName": "Orel",
+    "name": "Орловская область",
     "hasc": "RU.OL",
     "iso": "ORL",
     "internet": 0.5,
@@ -70648,7 +70696,8 @@
     ]
   },
   {
-    "name": "Orenburg",
+    "latinOrigName": "Orenburg",
+    "name": "Оренбургская область",
     "hasc": "RU.OB",
     "iso": "ORE",
     "internet": 0.5,
@@ -72431,7 +72480,8 @@
     ]
   },
   {
-    "name": "Penza",
+    "latinOrigName": "Penza",
+    "name": "Пензенская область",
     "hasc": "RU.PZ",
     "iso": "PNZ",
     "internet": 0.5,
@@ -73158,7 +73208,8 @@
     ]
   },
   {
-    "name": "Primor'ye",
+    "latinOrigName": "Primor'ye",
+    "name": "Приморский край",
     "hasc": "RU.PR",
     "iso": "PRI",
     "internet": 0.5,
@@ -75793,7 +75844,8 @@
     ]
   },
   {
-    "name": "Pskov",
+    "latinOrigName": "Pskov",
+    "name": "Псковская область",
     "hasc": "RU.PS",
     "iso": "PSK",
     "internet": 0.5,
@@ -76672,7 +76724,8 @@
     ]
   },
   {
-    "name": "Rostov",
+    "latinOrigName": "Rostov",
+    "name": "Ростовская область",
     "hasc": "RU.RO",
     "iso": "ROS",
     "internet": 0.5,
@@ -78147,7 +78200,8 @@
     ]
   },
   {
-    "name": "Ryazan'",
+    "latinOrigName": "Ryazan'",
+    "name": "Рязанская область",
     "hasc": "RU.RZ",
     "iso": "RYA",
     "internet": 0.5,
@@ -79050,7 +79104,8 @@
     ]
   },
   {
-    "name": "Sakha",
+    "latinOrigName": "Sakha",
+    "name": "Республика Саха (Якутия)",
     "hasc": "RU.SK",
     "iso": "SA",
     "internet": 0.5,
@@ -88753,7 +88808,8 @@
     ]
   },
   {
-    "name": "Sakhalin",
+    "latinOrigName": "Sakhalin",
+    "name": "Сахалинская область",
     "hasc": "RU.SL",
     "iso": "SAK",
     "internet": 0.5,
@@ -93164,7 +93220,8 @@
     ]
   },
   {
-    "name": "Samara",
+    "latinOrigName": "Samara",
+    "name": "Самарская область",
     "hasc": "RU.SA",
     "iso": "SAM",
     "internet": 0.5,
@@ -93955,7 +94012,8 @@
     ]
   },
   {
-    "name": "Saratov",
+    "latinOrigName": "Saratov",
+    "name": "Саратовская область",
     "hasc": "RU.SR",
     "iso": "SAR",
     "internet": 0.5,
@@ -95166,7 +95224,8 @@
     ]
   },
   {
-    "name": "Smolensk",
+    "latinOrigName": "Smolensk",
+    "name": "Смоленская область",
     "hasc": "RU.SM",
     "iso": "SMO",
     "internet": 0.5,
@@ -96117,7 +96176,8 @@
     ]
   },
   {
-    "name": "Stavropol'",
+    "latinOrigName": "Stavropol'",
+    "name": "Ставропольский край",
     "hasc": "RU.ST",
     "iso": "STA",
     "internet": 0.5,
@@ -96920,7 +96980,8 @@
     ]
   },
   {
-    "name": "Sverdlovsk",
+    "latinOrigName": "Sverdlovsk",
+    "name": "Свердловская область",
     "hasc": "RU.SV",
     "iso": "SVE",
     "internet": 0.5,
@@ -98123,7 +98184,8 @@
     ]
   },
   {
-    "name": "Tambov",
+    "latinOrigName": "Tambov",
+    "name": "Тамбовская область",
     "hasc": "RU.TB",
     "iso": "TAM",
     "internet": 0.5,
@@ -98738,7 +98800,8 @@
     ]
   },
   {
-    "name": "Tatarstan",
+    "latinOrigName": "Tatarstan",
+    "name": "Республика Татарстан",
     "hasc": "RU.TT",
     "iso": "TA",
     "internet": 0.5,
@@ -100105,7 +100168,8 @@
     ]
   },
   {
-    "name": "Tomsk",
+    "latinOrigName": "Tomsk",
+    "name": "Томская область",
     "hasc": "RU.TO",
     "iso": "TOM",
     "internet": 0.5,
@@ -101404,7 +101468,8 @@
     ]
   },
   {
-    "name": "Tula",
+    "latinOrigName": "Tula",
+    "name": "Тульская область",
     "hasc": "RU.TL",
     "iso": "TUL",
     "internet": 0.5,
@@ -102063,7 +102128,8 @@
     ]
   },
   {
-    "name": "Tuva",
+    "latinOrigName": "Tuva",
+    "name": "Республика Тыва",
     "hasc": "RU.TU",
     "iso": "TY",
     "internet": 0.5,
@@ -103602,7 +103668,8 @@
     ]
   },
   {
-    "name": "Tver'",
+    "latinOrigName": "Tver'",
+    "name": "Тверская область",
     "hasc": "RU.TV",
     "iso": "TVE",
     "internet": 0.5,
@@ -104945,7 +105012,8 @@
     ]
   },
   {
-    "name": "Tyumen'",
+    "latinOrigName": "Tyumen'",
+    "name": "Тюменская область",
     "hasc": "RU.TY",
     "iso": "TYU",
     "internet": 0.5,
@@ -106136,7 +106204,8 @@
     ]
   },
   {
-    "name": "Udmurt",
+    "latinOrigName": "Udmurt",
+    "name": "Удмуртская Республика",
     "hasc": "RU.UD",
     "iso": "UD",
     "internet": 0.5,
@@ -106907,7 +106976,8 @@
     ]
   },
   {
-    "name": "Ul'yanovsk",
+    "latinOrigName": "Ul'yanovsk",
+    "name": "Ульяновская область",
     "hasc": "RU.UL",
     "iso": "ULY",
     "internet": 0.5,
@@ -107738,7 +107808,8 @@
     ]
   },
   {
-    "name": "Vladimir",
+    "latinOrigName": "Vladimir",
+    "name": "Владимирская область",
     "hasc": "RU.VL",
     "iso": "VLA",
     "internet": 0.5,
@@ -108445,7 +108516,8 @@
     ]
   },
   {
-    "name": "Volgograd",
+    "latinOrigName": "Volgograd",
+    "name": "Волгоградская область",
     "hasc": "RU.VG",
     "iso": "VGG",
     "internet": 0.5,
@@ -109536,7 +109608,8 @@
     ]
   },
   {
-    "name": "Vologda",
+    "latinOrigName": "Vologda",
+    "name": "Вологодская область",
     "hasc": "RU.VO",
     "iso": "VLG",
     "internet": 0.5,
@@ -111103,7 +111176,8 @@
     ]
   },
   {
-    "name": "Voronezh",
+    "latinOrigName": "Voronezh",
+    "name": "Воронежская область",
     "hasc": "RU.VR",
     "iso": "VOR",
     "internet": 0.5,
@@ -111886,7 +111960,8 @@
     ]
   },
   {
-    "name": "Yamal-Nenets",
+    "latinOrigName": "Yamal-Nenets",
+    "name": "Ямало-Ненецкий автономный округ",
     "hasc": "RU.YN",
     "iso": "YAN",
     "internet": 0.5,
@@ -118111,7 +118186,8 @@
     ]
   },
   {
-    "name": "Yaroslavl'",
+    "latinOrigName": "Yaroslavl'",
+    "name": "Ярославская область",
     "hasc": "RU.YS",
     "iso": "YAR",
     "internet": 0.5,
@@ -118850,7 +118926,8 @@
     ]
   },
   {
-    "name": "Yevrey",
+    "latinOrigName": "Yevrey",
+    "name": "Еврейская автономная область",
     "hasc": "RU.YV",
     "iso": "YEV",
     "internet": 0.5,
@@ -119409,7 +119486,8 @@
     ]
   },
   {
-    "name": "Crimea",
+    "latinOrigName": "Crimea",
+    "name": "Республика Крым",
     "hasc": "RU.CR",
     "iso": "CRI",
     "internet": 0.5,
@@ -120204,7 +120282,8 @@
     ]
   },
   {
-    "name": "Sevastolol'",
+    "latinOrigName": "Sevastolol'",
+    "name": "Севастополь",
     "hasc": "RU.SC",
     "iso": "SEV",
     "internet": 0.5,
@@ -120363,7 +120442,8 @@
     ]
   },
   {
-    "name": "Krasnoyarsk",
+    "latinOrigName": "Krasnoyarsk",
+    "name": "Красноярский край",
     "hasc": "RU.KX",
     "iso": "KYA",
     "internet": 0.5,
@@ -133936,7 +134016,8 @@
     ]
   },
   {
-    "name": "Zabaykal'ye",
+    "latinOrigName": "Zabaykal'ye",
+    "name": "Забайкальский край",
     "hasc": "RU.CT",
     "iso": "ZAB",
     "internet": 0.5,
@@ -136515,7 +136596,8 @@
     ]
   },
   {
-    "name": "Irkutsk",
+    "latinOrigName": "Irkutsk",
+    "name": "Иркутская область",
     "hasc": "RU.IR",
     "iso": "IRK",
     "internet": 0.5,
@@ -140134,7 +140216,8 @@
     ]
   },
   {
-    "name": "Perm'",
+    "latinOrigName": "Perm'",
+    "name": "Пермский край",
     "hasc": "RU.PE",
     "iso": "PER",
     "internet": 0.5,
@@ -141221,7 +141304,8 @@
     ]
   },
   {
-    "name": "Kamchatka",
+    "latinOrigName": "Kamchatka",
+    "name": "Камчатский край",
     "hasc": "RU.KA",
     "iso": "KAM",
     "internet": 0.5,
@@ -146322,7 +146406,8 @@
     ]
   },
   {
-    "name": "Moscow City",
+    "latinOrigName": "Moscow City",
+    "name": "Москва Сити",
     "hasc": "RU.MV",
     "iso": "MOW",
     "internet": 0.5,
