@@ -11,7 +11,7 @@ def subject():
     "salary": 0,
     "internet": 0.0,
     "education": 0.0,
-    "massMedia": 0.0,
+    #"massMedia": 0.0,
     "elections": [
       # electionSchema()
     ],
